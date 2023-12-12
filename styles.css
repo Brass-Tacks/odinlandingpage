@@ -4,6 +4,21 @@ body {
     margin-right: 0px;
     width: 960px;
 }
+.headerblock{
+    height: 50px;
+}
+.header {
+    display: inline;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header1 {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0;
+    display: inline;
+}
 
 section {
     width: 960px;
@@ -11,10 +26,6 @@ section {
 
 div {
     width: 960px;
-}
-
-img {
-
 }
 
 .titlecard {
