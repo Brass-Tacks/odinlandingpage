@@ -1,0 +1,64 @@
+body {
+    background-color: #1F2937;
+    margin-right: 0px;
+    margin-right: 0px;
+    width: 960px;
+}
+
+section {
+    width: 960px;
+}
+
+div {
+    width: 960px;
+}
+
+img {
+
+}
+
+.titlecard {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    margin-right: 30px;
+}
+
+.titleone {
+    flex: 1 0 auto;
+    width: 300px;
+}
+
+.thumb {
+    
+    width: 90px;
+}
+
+.titlemain {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bolder;
+    justify-content: center;
+    align-items: center;
+}
+
+.titlesub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.titletwo {
+    flex: 1 0 auto;
+}
+
+.informationcard {
+    background-color: white;
+}
+
+.quotecard {
+    background-color: #E5E7EB;
+}
+
+.calltoaction {
+    background-color: #3882f6;
+}
