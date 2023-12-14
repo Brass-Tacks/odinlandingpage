@@ -18,6 +18,7 @@ body {
     color: #E5E7EB;
     margin: 0;
     display: inline;
+    padding-left: 40px;
 }
 
 section {
@@ -31,18 +32,26 @@ div {
 .titlecard {
     background-color: #1F2937;
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-direction: row;
-    margin-right: 30px;
+    padding-bottom: 50px;
 }
 
 .titleone {
     flex: 1 0 auto;
     width: 300px;
+    padding-left: 150px;
+}
+
+.titletwo {
+    padding-left: 90px;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .thumb {
-    
-    width: 90px;
+    width: 290px;
 }
 
 .titlemain {
@@ -56,10 +65,6 @@ div {
 .titlesub {
     font-size: 18px;
     color: #E5E7EB;
-}
-
-.titletwo {
-    flex: 1 0 auto;
 }
 
 .informationcard {
