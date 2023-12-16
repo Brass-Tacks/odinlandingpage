@@ -72,6 +72,10 @@ div {
     background-color: white;
 }
 
+.infotitle {
+    text-align: center;
+}
+
 .quotecard {
     background-color: #E5E7EB;
 }
