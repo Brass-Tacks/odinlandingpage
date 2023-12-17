@@ -1,12 +1,16 @@
 body {
     background-color: #1F2937;
-    margin-right: 0px;
-    margin-right: 0px;
-    width: 960px;
 }
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 .headerblock{
     height: 50px;
 }
+
 .header {
     display: inline;
     font-size: 24px;
@@ -74,6 +78,25 @@ div {
 
 .infotitle {
     text-align: center;
+}
+
+.duckcontainer {
+    display: flex;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.duck {
+    width: 170px;
+    height: 170px;
+    border-radius: 25px;
+    border: 2px solid #3882f6;
+}
+
+.ducksubtext {
+    font-size: 18px;
+    color: gray;
+    margin-top: -3px;
 }
 
 .quotecard {
