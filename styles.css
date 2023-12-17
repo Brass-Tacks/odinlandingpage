@@ -1,10 +1,13 @@
 body {
     background-color: #1F2937;
+    width: 100%;
 }
 
 html, body {
     margin: 0;
     height: 100%;
+    width: 100%;
+    padding: 0;
 }
 
 .headerblock{
@@ -26,11 +29,11 @@ html, body {
 }
 
 section {
-    width: 960px;
+    width: 100%;
 }
 
 div {
-    width: 960px;
+    width: 100%;
 }
 
 .titlecard {
@@ -74,6 +77,7 @@ div {
 
 .informationcard {
     background-color: white;
+    width: 100%;
 }
 
 .infotitle {
